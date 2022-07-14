@@ -1,7 +1,7 @@
-# Spark-Funds-Investment Analysis
- Spark Funds is an Asset Management company, and wants to  invest in a few companies. And the company wants to analyse data to invest  in English speaking countries only, to invest from a range of 5 to 15 million  USD per round of investment.
+# Asset Management Analysis
+ Asset Management company, and wants to  invest in a few companies. And the company wants to analyse data to invest  in English speaking countries only, to invest from a range of 5 to 15 million  USD per round of investment.
 
-Strategy: Spark Funds wants to invest where most other investors are 
+Strategy: Asset wants to invest where most other investors are 
 investing. To play a safe game in market.
 
 Business Objective: The objective is to identify the best sectors, countries, 
